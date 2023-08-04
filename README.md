@@ -1,4 +1,8 @@
-# The survey on the usage of multimedia databases for emotion elicitation
+# Survey on the usage of multimedia databases for emotion elicitation
+
+<b>A Survey on Usage of Multimedia Databases for Emotion Elicitation: A Quantitative Report on How Content Diversity Can Improve Performance</b><br>
+Marko Horvat, University of Zagreb, Faculty of Electrical Engineering and Computing, Department of Applied Computing, Zagreb, Croatia<br>
+Petar Jerčić, Graz University of Technology, Institute of Interactive Systems and Data Science, Graz, Austria
 
 <b>Summary and motivation:</b> 
 
@@ -64,3 +68,8 @@ The aggregated survey results in this repository will remain permanently publicl
 <b>Acknowledgement</b>:
 
 The authors would like to express their sincere gratitude to all the experts who participated in this survey. Their invaluable insights have laid the foundation for the development of a more effective method for managing and integrating semi-structured stimuli datasets.
+
+<b>PDF:<b>
+
+[1] https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10159867&casa_token=8tFRapVGK_4AAAAA:EYyUkwsRciKoVlnVvawkdEOgAiKIYW6cx-2SBArvAruTyp9tgCCYNTPjZFnNs-Oj4P5bd6csTQ&tag=1<br>
+[2] https://www.bib.irb.hr:8443/1275186
